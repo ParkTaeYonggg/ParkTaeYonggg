@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hi&nbsp;there&nbsp;👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hi&nbsp;there&nbsp;👋&fontSize=50)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkTaeYonggg&show_icons=true&theme=radical)
 
