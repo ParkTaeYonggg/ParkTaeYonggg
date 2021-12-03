@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkTaeYonggg&show_icons=true&theme=radical)
 
+자바스크립트와 리액트를 공부중입니다🌱
 <!--
 **ParkTaeYonggg/ParkTaeYonggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
