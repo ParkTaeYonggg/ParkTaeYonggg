@@ -3,7 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkTaeYonggg&show_icons=true&theme=radical)
 
 자바스크립트와 리액트를 공부중입니다🌱<br>
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)(https://github.com/ParkTaeYonggg) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/ParkTaeYonggg) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/ParkTaeYonggg) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/ParkTaeYonggg)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/ParkTaeYonggg) 
+[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/ParkTaeYonggg) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/ParkTaeYonggg) 
+[![Java](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/ParkTaeYonggg)
 <!--
 **ParkTaeYonggg/ParkTaeYonggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
