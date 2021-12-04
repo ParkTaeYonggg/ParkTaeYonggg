@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hi&nbsp;there&nbsp;👋&fontSize=50)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkTaeYonggg&show_icons=true&theme=radical)
 <div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkTaeYonggg&show_icons=true&theme=radical)
+
  
 ## 자바스크립트와 리액트를 공부중입니다🌱<br>
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/ParkTaeYonggg) 
