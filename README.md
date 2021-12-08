@@ -6,7 +6,7 @@
 
  
 ## 자바스크립트와 리액트를 공부중입니다🌱<br>
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/ParkTaeYonggg) 
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/ParkTaeYonggg/JavaScript_practice) 
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/ParkTaeYonggg) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/ParkTaeYonggg) 
 [![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/ParkTaeYonggg)<br>
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/ParkTaeYonggg)
