@@ -11,8 +11,7 @@
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/ParkTaeYonggg/JavaScript_practice) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/ParkTaeYonggg/React_basic) 
 [![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/ParkTaeYonggg/myreact_practice)
 [![styled Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://github.com/ParkTaeYonggg/myreact_practice)<br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
- [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/ParkTaeYonggg)
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  
  </div>
