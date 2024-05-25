@@ -13,7 +13,7 @@
 [![styled Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://github.com/ParkTaeYonggg/myreact_practice)<br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-[![React Native]<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" style="width:50px;height:50px;">]
+[![React Native](<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" style="width:50px;height:50px;">)]
  
  </div>
 <!--
