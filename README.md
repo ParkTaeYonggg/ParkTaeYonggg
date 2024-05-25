@@ -14,6 +14,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/ParkTaeYonggg/programmers_CodingTest)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/ParkTaeYonggg/bitFinalProject)
  [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/ParkTaeYonggg)
+ [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white")]
  
  </div>
 <!--
